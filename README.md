@@ -1,4 +1,11 @@
- # Lung Cancer Prediction - Data Analysis Project
+![Cover Image](./cover.png)
+
+<p align="center">
+  <img src="./cover.png" alt="Lung Cancer Project" width="600"/>
+</p>
+
+<h2 align="center">Lung Cancer Prediction using Excel</h2>
+# Lung Cancer Prediction - Data Analysis Project
 
 ## 📌 Overview
 
