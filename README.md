@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Lung Cancer Prediction using Excel</h2>
-# Lung Cancer Prediction - Data Analysis Project
+ # Lung Cancer Prediction - Data Analysis Project
 
 ## 📌 Overview
 
