@@ -38,7 +38,7 @@ This project was completed as part of the **B.Sc. Mathematics** curriculum at **
 
 ## 🙋‍♀️ Author
 
-**Teena Joe (MJ)**  
+**Teena Joe **  
 Aspiring Data Analyst | Passionate about healthcare data  
 GitHub: [Teenajoe-Analytics]( https://github.com/Teenajoe-Analytics)
 
